@@ -1,4 +1,4 @@
 [submodule "BotCore/Vendor/ImGUI"]
 	path = BotCore/Vendor/ImGUI
 	url = https://github.com/Official404/imgui.git
-	branch = master
+	branch = origin/master

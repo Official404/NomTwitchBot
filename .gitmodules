@@ -2,3 +2,6 @@
 	path = BotCore/Vendor/ImGUI
 	url = https://github.com/Official404/imgui.git
 	branch = origin/master
+[submodule "BotCore/Vendor/piper1-gpl"]
+	path = BotCore/Vendor/piper1-gpl
+	url = https://github.com/Official404/piper1-gpl.git
